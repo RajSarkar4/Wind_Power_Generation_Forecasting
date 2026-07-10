@@ -43,16 +43,16 @@ The dataset contains meteorological observations from four different locations a
 - Jupyter Notebook
 
 ## 📂 Project Structure
-Wind_Power_Generation_Forecasting/
-│
-├── Location1.csv
-├── Location2.csv
-├── Location3.csv
-├── Location4.csv
-├── merged_locations.csv
-├── Wind_Power_Generation_Forecasting.ipynb
-├── requirements.txt
-└── README.md
+Wind_Power_Generation_Forecasting/       
+│          
+├── Location1.csv                                                                                                            
+├── Location2.csv                 
+├── Location3.csv                 
+├── Location4.csv                    
+├── merged_locations.csv                             
+├── Wind_Power_Generation_Forecasting.ipynb                     
+├── requirements.txt                           
+└── README.md                    
 
 
 ## ⚙️ Installation
@@ -87,5 +87,6 @@ Train regression models for power forecasting
 Evaluate model performance using RMSE and R²
 Deploy prediction APIs using Flask or FastAPI
 Integrate real-time weather data
+
 👨‍💻 Author
 Raj Sarkar
